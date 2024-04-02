@@ -1,0 +1,23 @@
+Subject: Data Requirement and Strategies to Mitigate Customer Churn
+
+Hello Associate Director,
+
+Hope you are having a good week. I and Estelle collaborated to discuss the key reason behind the customer churn. As per our discussion, we were able to figure out below reasons behind customer churn.
+
+Key Reasons for Customer Churn:
+Factors include price, clean energy, customer service, location, usage trends, customer satisfaction, marketing effectiveness, and system quality.
+
+Data Requirements:
+We need historical purchasing trends, geographical data, pricing data, usage patterns, customer service metrics, growth metrics, marketing data, and system performance metrics.
+
+Data Analysis and Visualization:
+We'll plot price trends against churn, map geographical hotspots, analyze usage patterns, correlate customer service ratings with churn, assess marketing impact, and compare system reliability with satisfaction.
+
+By applying these strategies, we can understand churn causes and develop mitigation plans.
+
+Looking forward to discussing further.
+
+Regards,
+
+Sakshi Nischal
+
